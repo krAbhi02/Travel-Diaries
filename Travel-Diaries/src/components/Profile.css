@@ -1,0 +1,16 @@
+/* Profile.css */
+
+/* ... (other styles) */
+
+.background-image {
+  position: relative;
+  height: 200px; /* Adjust the height of the background image section */
+}
+
+.profile-container {
+  display: flex;
+  align-items: center;
+  margin-top: -45px;
+  position: relative;
+  left: calc(40% + 60px);
+}
